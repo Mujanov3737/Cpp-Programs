@@ -1,1 +1,11 @@
 # Programming-Languages-C-Python-
+
+The project I chose to upload was Project 3 which sought to parse through an input file of a number of grocery items and display the quantities of those items both as a number value and as a histogram. The key part which made this project more interesting was the integration of both C++ and Python, with the user menu selection and display of the data being handled in C++, and the file being opened and processed to a new file through Python before being sent back to C++ for display.
+
+I feel that I documented what each piece of code did fairly well without overloading the editor with an excessive cluster of comments everywhere. In addition, I think the program can be easily adapted to parse through a list of items. I also think my solution for parsing through the data was elegant enough but I might have approached the problem differently if the requirements of the project weren’t as stringent, such as having the Python side do more of the work because of the simpler syntax and functionality it has in regards to data manipulation.
+
+As far as what could have been better, I took a few extra steps in the processes that perhaps could have been eliminated and streamlined. For instance, reading the file from Python and formatting it better for display there may have eliminated a few steps I had taken when the new file was written in “frequency.dat”. From that new file, I created two vectors to hold the data from each item and the quantity for that item, when I probably could have found a way to display the results straight from reading the file in Python without the creation of a new one.
+
+I felt the code for manipulating the data was simple, it was just a matter of working through juggling the syntax of both languages at the same time and refreshing on how the syntax of the Python dictionaries was written, which can be easily found in the documentation for Python that I always have on hand when writing in the language. The code for the wrapper is probably the most sophisticated part of the program.
+
+Experiencing the possibilities of integrating two languages together is going to be valuable in future work, particularly when certain libraries or functionalities of different languages can streamline a particular project greatly, albeit with an added element of complexity.
