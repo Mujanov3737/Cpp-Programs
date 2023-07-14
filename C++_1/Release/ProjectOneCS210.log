@@ -1,0 +1,3 @@
+﻿  ProjectOneCS210.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Users\Solignac\source\repos\ProjectOneCS210\Release\ProjectOneCS210.exe : fatal error LNK1120: 1 unresolved externals

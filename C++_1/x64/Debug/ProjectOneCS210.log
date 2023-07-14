@@ -1,0 +1,8 @@
+﻿  ProjectOneCS210.cpp
+C:\Users\mujan\OneDrive\Desktop\C++_1\ProjectOneCS210.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mujan\OneDrive\Desktop\C++_1\ProjectOneCS210.cpp(269,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Time.cpp
+  Generating Code...
+C:\Users\mujan\OneDrive\Desktop\C++_1\ProjectOneCS210.cpp(135): warning C4715: 'formatTime12': not all control paths return a value
+C:\Users\mujan\OneDrive\Desktop\C++_1\ProjectOneCS210.cpp(236): warning C4715: 'getMenuChoice': not all control paths return a value
+  ProjectOneCS210.vcxproj -> C:\Users\mujan\OneDrive\Desktop\C++_1\x64\Debug\ProjectOneCS210.exe

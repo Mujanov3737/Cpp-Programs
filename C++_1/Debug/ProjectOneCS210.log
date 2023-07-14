@@ -1,0 +1,6 @@
+﻿  ProjectOneCS210.cpp
+C:\Users\Solignac\source\repos\ProjectOneCS210\ProjectOneCS210.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Solignac\source\repos\ProjectOneCS210\ProjectOneCS210.cpp(283,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Solignac\source\repos\ProjectOneCS210\ProjectOneCS210.cpp(135): warning C4715: 'formatTime12': not all control paths return a value
+C:\Users\Solignac\source\repos\ProjectOneCS210\ProjectOneCS210.cpp(250): warning C4715: 'getMenuChoice': not all control paths return a value
+  ProjectOneCS210.vcxproj -> C:\Users\Solignac\source\repos\ProjectOneCS210\Debug\ProjectOneCS210.exe
