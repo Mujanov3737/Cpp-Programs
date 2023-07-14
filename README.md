@@ -10,6 +10,7 @@ This application presents a 12 and 24 hour clock and refreshes every second. The
 The second application take user inputs for investment amount, monthly deposit, annual interest, and years in order to calculate balance and interest. These interest values are then nicely formatted within the console and displayed for each year the user entered
 
 ![cpp2](https://github.com/Mujanov3737/Cpp-Programs/assets/75598761/c7d9712e-00b4-4d2a-9ab3-bd2b7e7c30f8)
+----------------------------------
 ![cpp2_2](https://github.com/Mujanov3737/Cpp-Programs/assets/75598761/d70b0eba-2c9d-45be-a275-5406e66dec93)
 
 ## C++_3 Purchase History
